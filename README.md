@@ -1,1 +1,1 @@
-# senior-thesis
+# Senior Thesis
